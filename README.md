@@ -1,3 +1,12 @@
+# CupidsBow
+## The Blueprint Bandits project Cupids bow
+
+### Time Check points:
+
+10:12 -> 11:26
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
